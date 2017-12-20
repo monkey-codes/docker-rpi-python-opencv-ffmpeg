@@ -39,4 +39,4 @@ $ docker run --rm -it -v $PWD:/srv monkeycodes/rpi-python-opencv-ffmpeg python
 # truncated for transparency
 (True, array([[[ 46, 112, 104], ...]], dtype=uint8))
 ```
-```
+
